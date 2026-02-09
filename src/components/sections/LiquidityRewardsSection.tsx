@@ -38,7 +38,7 @@ export function LiquidityRewardsSection() {
             </p>
             <div className="p-4 bg-primary-50 dark:bg-primary-900/20 rounded-md">
               <p className="text-sm font-medium text-primary-900 dark:text-primary-100">
-                <span className="font-bold">Key Benefit:</span> Effortlessly earn rewards while contributing to the ecosystem's health.
+                <span className="font-bold">Key Benefit:</span> Effortlessly earn rewards while contributing to the ecosystem&apos;s health.
               </p>
             </div>
           </div>

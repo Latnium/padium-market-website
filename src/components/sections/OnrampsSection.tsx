@@ -16,7 +16,7 @@ export function OnrampsSection() {
 
         <div className="bg-white dark:bg-gray-800 rounded-lg p-8 shadow-lg">
           <p className="text-lg text-gray-700 dark:text-gray-300 leading-relaxed mb-6">
-            Padmium is committed to the development of efficient on- and off-ramp solutions to facilitate seamless fiat-to-stablecoin conversions, deposits, and withdrawals through the fastest and most reliable payment channels tailored to each country's infrastructure, such as e-transfer, ACH, and other local bank rails.
+            Padmium is committed to the development of efficient on- and off-ramp solutions to facilitate seamless fiat-to-stablecoin conversions, deposits, and withdrawals through the fastest and most reliable payment channels tailored to each country&apos;s infrastructure, such as e-transfer, ACH, and other local bank rails.
           </p>
           <div className="grid md:grid-cols-3 gap-4 mt-6">
             <div className="p-4 bg-primary-50 dark:bg-primary-900/20 rounded-md text-center">

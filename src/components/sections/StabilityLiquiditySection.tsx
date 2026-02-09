@@ -19,7 +19,7 @@ export function StabilityLiquiditySection() {
             Proprietary Algorithm for Liquidity
           </h3>
           <p className="text-lg text-gray-700 dark:text-gray-300 leading-relaxed mb-4">
-            Padmium's proprietary algorithm, developed by Padmium Labs, plays a pivotal role in providing on-demand liquidity.
+            Padmium&apos;s proprietary algorithm, developed by Padmium Labs, plays a pivotal role in providing on-demand liquidity.
           </p>
           <ul className="list-disc list-inside space-y-2 text-gray-700 dark:text-gray-300 mb-4">
             <li>Dynamically manages orders and achieves superior efficiency in maintaining tight spreads</li>
@@ -36,7 +36,7 @@ export function StabilityLiquiditySection() {
             Proprietary Algorithm for Market Balance
           </h3>
           <p className="text-lg text-gray-700 dark:text-gray-300 leading-relaxed mb-4">
-            Padmium's proprietary algorithm adjusts orders to maintain liquidity and balance in the market, ensuring that stablecoins like Latnium and Ladnium remain practical and stable for everyday use.
+            Padmium&apos;s proprietary algorithm adjusts orders to maintain liquidity and balance in the market, ensuring that stablecoins like Latnium and Ladnium remain practical and stable for everyday use.
           </p>
         </div>
 
@@ -44,7 +44,7 @@ export function StabilityLiquiditySection() {
         <div className="text-center mt-8">
           <div className="inline-block p-8 bg-gray-50 dark:bg-gray-800 rounded-lg shadow-lg">
             <p className="text-gray-500 dark:text-gray-400 italic">
-              [Insert a flowchart: "Market Activity" → "Algorithm Adjustment" → "Balanced Liquidity."]
+              [Insert a flowchart: &quot;Market Activity&quot; → &quot;Algorithm Adjustment&quot; → &quot;Balanced Liquidity.&quot;]
             </p>
           </div>
         </div>
